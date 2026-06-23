@@ -1,0 +1,15 @@
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Application/bin/Debug/net10.0/SmartMetering.Ingestion.Application.deps.json
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Application/bin/Debug/net10.0/SmartMetering.Ingestion.Application.dll
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Application/bin/Debug/net10.0/SmartMetering.Ingestion.Application.pdb
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Application/bin/Debug/net10.0/SmartMetering.Ingestion.Domain.dll
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Application/bin/Debug/net10.0/SmartMetering.Ingestion.Domain.pdb
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Application/obj/Debug/net10.0/SmartMetering.Ingestion.Application.csproj.AssemblyReference.cache
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Application/obj/Debug/net10.0/SmartMetering.Ingestion.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Application/obj/Debug/net10.0/SmartMetering.Ingestion.Application.AssemblyInfoInputs.cache
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Application/obj/Debug/net10.0/SmartMetering.Ingestion.Application.AssemblyInfo.cs
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Application/obj/Debug/net10.0/SmartMetering.Ingestion.Application.csproj.CoreCompileInputs.cache
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Application/obj/Debug/net10.0/SmartMet.1E78FD75.Up2Date
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Application/obj/Debug/net10.0/SmartMetering.Ingestion.Application.dll
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Application/obj/Debug/net10.0/refint/SmartMetering.Ingestion.Application.dll
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Application/obj/Debug/net10.0/SmartMetering.Ingestion.Application.pdb
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Application/obj/Debug/net10.0/ref/SmartMetering.Ingestion.Application.dll

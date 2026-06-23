@@ -1,0 +1,17 @@
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Infrastructure/bin/Debug/net10.0/SmartMetering.Ingestion.Infrastructure.deps.json
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Infrastructure/bin/Debug/net10.0/SmartMetering.Ingestion.Infrastructure.dll
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Infrastructure/bin/Debug/net10.0/SmartMetering.Ingestion.Infrastructure.pdb
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Infrastructure/bin/Debug/net10.0/SmartMetering.Ingestion.Application.dll
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Infrastructure/bin/Debug/net10.0/SmartMetering.Ingestion.Domain.dll
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Infrastructure/bin/Debug/net10.0/SmartMetering.Ingestion.Application.pdb
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Infrastructure/bin/Debug/net10.0/SmartMetering.Ingestion.Domain.pdb
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Infrastructure/obj/Debug/net10.0/SmartMetering.Ingestion.Infrastructure.csproj.AssemblyReference.cache
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Infrastructure/obj/Debug/net10.0/SmartMetering.Ingestion.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Infrastructure/obj/Debug/net10.0/SmartMetering.Ingestion.Infrastructure.AssemblyInfoInputs.cache
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Infrastructure/obj/Debug/net10.0/SmartMetering.Ingestion.Infrastructure.AssemblyInfo.cs
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Infrastructure/obj/Debug/net10.0/SmartMetering.Ingestion.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Infrastructure/obj/Debug/net10.0/SmartMet.49F56220.Up2Date
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Infrastructure/obj/Debug/net10.0/SmartMetering.Ingestion.Infrastructure.dll
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Infrastructure/obj/Debug/net10.0/refint/SmartMetering.Ingestion.Infrastructure.dll
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Infrastructure/obj/Debug/net10.0/SmartMetering.Ingestion.Infrastructure.pdb
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Infrastructure/obj/Debug/net10.0/ref/SmartMetering.Ingestion.Infrastructure.dll

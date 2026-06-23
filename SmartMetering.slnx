@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Ingestion/">
+    <Project Path="src/Ingestion/SmartMetering.Ingestion.Api/SmartMetering.Ingestion.Api.csproj" />
+    <Project Path="src/Ingestion/SmartMetering.Ingestion.Application/SmartMetering.Ingestion.Application.csproj" />
+    <Project Path="src/Ingestion/SmartMetering.Ingestion.Domain/SmartMetering.Ingestion.Domain.csproj" />
+    <Project Path="src/Ingestion/SmartMetering.Ingestion.Infrastructure/SmartMetering.Ingestion.Infrastructure.csproj" />
+  </Folder>
+</Solution>

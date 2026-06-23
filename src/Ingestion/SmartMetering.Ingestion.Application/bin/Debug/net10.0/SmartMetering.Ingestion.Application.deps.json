@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "SmartMetering.Ingestion.Application/1.0.0": {
+        "dependencies": {
+          "SmartMetering.Ingestion.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SmartMetering.Ingestion.Application.dll": {}
+        }
+      },
+      "SmartMetering.Ingestion.Domain/1.0.0": {
+        "runtime": {
+          "SmartMetering.Ingestion.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SmartMetering.Ingestion.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SmartMetering.Ingestion.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
