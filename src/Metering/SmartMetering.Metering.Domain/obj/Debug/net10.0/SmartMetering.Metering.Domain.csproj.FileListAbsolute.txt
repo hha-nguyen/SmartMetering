@@ -1,0 +1,12 @@
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Metering/SmartMetering.Metering.Domain/bin/Debug/net10.0/SmartMetering.Metering.Domain.deps.json
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Metering/SmartMetering.Metering.Domain/bin/Debug/net10.0/SmartMetering.Metering.Domain.dll
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Metering/SmartMetering.Metering.Domain/bin/Debug/net10.0/SmartMetering.Metering.Domain.pdb
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Metering/SmartMetering.Metering.Domain/obj/Debug/net10.0/SmartMetering.Metering.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Metering/SmartMetering.Metering.Domain/obj/Debug/net10.0/SmartMetering.Metering.Domain.AssemblyInfoInputs.cache
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Metering/SmartMetering.Metering.Domain/obj/Debug/net10.0/SmartMetering.Metering.Domain.AssemblyInfo.cs
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Metering/SmartMetering.Metering.Domain/obj/Debug/net10.0/SmartMetering.Metering.Domain.csproj.CoreCompileInputs.cache
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Metering/SmartMetering.Metering.Domain/obj/Debug/net10.0/SmartMetering.Metering.Domain.sourcelink.json
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Metering/SmartMetering.Metering.Domain/obj/Debug/net10.0/SmartMetering.Metering.Domain.dll
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Metering/SmartMetering.Metering.Domain/obj/Debug/net10.0/refint/SmartMetering.Metering.Domain.dll
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Metering/SmartMetering.Metering.Domain/obj/Debug/net10.0/SmartMetering.Metering.Domain.pdb
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Metering/SmartMetering.Metering.Domain/obj/Debug/net10.0/ref/SmartMetering.Metering.Domain.dll

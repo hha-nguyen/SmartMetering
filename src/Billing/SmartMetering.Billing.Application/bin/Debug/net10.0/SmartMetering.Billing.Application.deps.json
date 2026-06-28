@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "SmartMetering.Billing.Application/1.0.0": {
+        "dependencies": {
+          "SmartMetering.Billing.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SmartMetering.Billing.Application.dll": {}
+        }
+      },
+      "SmartMetering.Billing.Domain/1.0.0": {
+        "runtime": {
+          "SmartMetering.Billing.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SmartMetering.Billing.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SmartMetering.Billing.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

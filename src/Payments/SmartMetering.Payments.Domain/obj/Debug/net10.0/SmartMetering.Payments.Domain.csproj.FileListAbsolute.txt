@@ -1,0 +1,12 @@
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Payments/SmartMetering.Payments.Domain/bin/Debug/net10.0/SmartMetering.Payments.Domain.deps.json
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Payments/SmartMetering.Payments.Domain/bin/Debug/net10.0/SmartMetering.Payments.Domain.dll
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Payments/SmartMetering.Payments.Domain/bin/Debug/net10.0/SmartMetering.Payments.Domain.pdb
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Payments/SmartMetering.Payments.Domain/obj/Debug/net10.0/SmartMetering.Payments.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Payments/SmartMetering.Payments.Domain/obj/Debug/net10.0/SmartMetering.Payments.Domain.AssemblyInfoInputs.cache
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Payments/SmartMetering.Payments.Domain/obj/Debug/net10.0/SmartMetering.Payments.Domain.AssemblyInfo.cs
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Payments/SmartMetering.Payments.Domain/obj/Debug/net10.0/SmartMetering.Payments.Domain.csproj.CoreCompileInputs.cache
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Payments/SmartMetering.Payments.Domain/obj/Debug/net10.0/SmartMetering.Payments.Domain.sourcelink.json
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Payments/SmartMetering.Payments.Domain/obj/Debug/net10.0/SmartMetering.Payments.Domain.dll
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Payments/SmartMetering.Payments.Domain/obj/Debug/net10.0/refint/SmartMetering.Payments.Domain.dll
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Payments/SmartMetering.Payments.Domain/obj/Debug/net10.0/SmartMetering.Payments.Domain.pdb
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Payments/SmartMetering.Payments.Domain/obj/Debug/net10.0/ref/SmartMetering.Payments.Domain.dll

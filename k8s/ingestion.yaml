@@ -1,0 +1,58 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ingestion
+  labels:
+    app: ingestion
+spec:
+  replicas: 1 # chạy 1 pod
+  selector:
+    matchLabels:
+      app: ingestion # Deployment quản pod có label này
+  template: # khuôn để tạo pod
+    metadata:
+      labels:
+        app: ingestion # pod được gắn label này
+    spec:
+      containers:
+        - name: ingestion
+          image: smartmetering-ingestion:dev
+          imagePullPolicy: IfNotPresent # dùng image đã import, KHÔNG pull registry
+          ports:
+            - containerPort: 8080
+          resources:
+            requests: # tài nguyên ĐẢM BẢO khi lên lịch
+              cpu: "100m" # 0.1 CPU
+              memory: "128Mi"
+            limits: # trần (vượt RAM -> OOMKilled, vượt CPU -> throttle)
+              cpu: "500m"
+              memory: "256Mi"
+          securityContext:
+            runAsNonRoot: true # ép chạy non-root (chiseled vốn non-root -> pass)
+            allowPrivilegeEscalation: false
+          livenessProbe: # "còn sống?" -> fail thì RESTART pod
+            httpGet:
+              path: /health/live
+              port: 8080
+            initialDelaySeconds: 5
+            periodSeconds: 10
+            failureThreshold: 3
+          readinessProbe: # "sẵn sàng nhận traffic?" -> fail thì NGỪNG gửi traffic
+            httpGet:
+              path: /health/ready
+              port: 8080
+            initialDelaySeconds: 5
+            periodSeconds: 5
+            failureThreshold: 3
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: ingestion
+spec:
+  selector:
+    app: ingestion # Service tìm pod qua label này
+  ports:
+    - port: 8080
+      targetPort: 8080
+  type: ClusterIP # địa chỉ nội bộ trong cluster

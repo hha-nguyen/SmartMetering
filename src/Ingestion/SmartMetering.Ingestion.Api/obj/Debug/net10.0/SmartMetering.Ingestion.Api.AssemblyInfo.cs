@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartMetering.Ingestion.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0abefc59d30b429149c8724845efc0366ca08ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartMetering.Ingestion.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartMetering.Ingestion.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

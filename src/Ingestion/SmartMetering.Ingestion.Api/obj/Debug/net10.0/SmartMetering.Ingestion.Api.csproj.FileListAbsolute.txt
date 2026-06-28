@@ -34,3 +34,9 @@
 /Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Api/obj/Debug/net10.0/SmartMetering.Ingestion.Api.pdb
 /Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Api/obj/Debug/net10.0/SmartMetering.Ingestion.Api.genruntimeconfig.cache
 /Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Api/obj/Debug/net10.0/ref/SmartMetering.Ingestion.Api.dll
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Api/obj/Debug/net10.0/SmartMetering.Ingestion.Api.sourcelink.json
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Api/bin/Debug/net10.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Api/bin/Debug/net10.0/Microsoft.OpenApi.dll
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Api/obj/Debug/net10.0/SmartMetering.Ingestion.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Api/bin/Debug/net10.0/Scalar.AspNetCore.dll
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Api/bin/Debug/net10.0/RabbitMQ.Client.dll

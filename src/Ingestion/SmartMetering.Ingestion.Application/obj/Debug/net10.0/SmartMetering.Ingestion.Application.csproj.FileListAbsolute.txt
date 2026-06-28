@@ -13,3 +13,4 @@
 /Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Application/obj/Debug/net10.0/refint/SmartMetering.Ingestion.Application.dll
 /Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Application/obj/Debug/net10.0/SmartMetering.Ingestion.Application.pdb
 /Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Application/obj/Debug/net10.0/ref/SmartMetering.Ingestion.Application.dll
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Application/obj/Debug/net10.0/SmartMetering.Ingestion.Application.sourcelink.json

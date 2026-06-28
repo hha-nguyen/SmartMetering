@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>SmartMetering — Live Readings</title>
+    <script src="https://unpkg.com/@microsoft/signalr@8.0.7/dist/browser/signalr.min.js"></script>
+    <style>
+      body { font-family: system-ui, sans-serif; margin: 2rem; }
+      li { font-family: monospace; }
+      #status { color: gray; }
+    </style>
+  </head>
+  <body>
+    <h2>⚡ Live meter readings</h2>
+    <p id="status">connecting…</p>
+    <ul id="list"></ul>
+    <script>
+      const conn = new signalR.HubConnectionBuilder().withUrl("/hub/readings").build();
+
+      conn.on("reading", (r) => {
+        const li = document.createElement("li");
+        li.textContent = `${r.meterId} @ ${r.timestamp} = ${r.kwh} kWh`;
+        const list = document.getElementById("list");
+        list.prepend(li);
+        while (list.childElementCount > 30) list.removeChild(list.lastChild);
+      });
+
+      conn.on("anomaly", (a) => {
+        const li = document.createElement("li");
+        li.style.color = "crimson";
+        li.style.fontWeight = "bold";
+        li.textContent = `⚠ ANOMALY ${a.meterId} = ${a.kwh} kWh (${a.reason})`;
+        document.getElementById("list").prepend(li);
+      });
+
+      conn.start()
+        .then(() => (document.getElementById("status").textContent = "connected ✓"))
+        .catch((e) => (document.getElementById("status").textContent = "error: " + e));
+    </script>
+  </body>
+</html>

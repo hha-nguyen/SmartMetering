@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "kn1WHHalpys=",
+  "dgSpecHash": "PKZmcWHkdZE=",
   "success": true,
   "projectFilePath": "/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Infrastructure/SmartMetering.Ingestion.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/mesto/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.9/microsoft.extensions.dependencyinjection.abstractions.10.0.9.nupkg.sha512",
+    "/Users/mesto/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.9/microsoft.extensions.logging.abstractions.10.0.9.nupkg.sha512",
+    "/Users/mesto/.nuget/packages/rabbitmq.client/7.2.1/rabbitmq.client.7.2.1.nupkg.sha512",
+    "/Users/mesto/.nuget/packages/system.threading.ratelimiting/8.0.0/system.threading.ratelimiting.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

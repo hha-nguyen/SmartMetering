@@ -1,0 +1,12 @@
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Billing/SmartMetering.Billing.Domain/bin/Debug/net10.0/SmartMetering.Billing.Domain.deps.json
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Billing/SmartMetering.Billing.Domain/bin/Debug/net10.0/SmartMetering.Billing.Domain.dll
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Billing/SmartMetering.Billing.Domain/bin/Debug/net10.0/SmartMetering.Billing.Domain.pdb
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Billing/SmartMetering.Billing.Domain/obj/Debug/net10.0/SmartMetering.Billing.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Billing/SmartMetering.Billing.Domain/obj/Debug/net10.0/SmartMetering.Billing.Domain.AssemblyInfoInputs.cache
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Billing/SmartMetering.Billing.Domain/obj/Debug/net10.0/SmartMetering.Billing.Domain.AssemblyInfo.cs
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Billing/SmartMetering.Billing.Domain/obj/Debug/net10.0/SmartMetering.Billing.Domain.csproj.CoreCompileInputs.cache
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Billing/SmartMetering.Billing.Domain/obj/Debug/net10.0/SmartMetering.Billing.Domain.sourcelink.json
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Billing/SmartMetering.Billing.Domain/obj/Debug/net10.0/SmartMetering.Billing.Domain.dll
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Billing/SmartMetering.Billing.Domain/obj/Debug/net10.0/refint/SmartMetering.Billing.Domain.dll
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Billing/SmartMetering.Billing.Domain/obj/Debug/net10.0/SmartMetering.Billing.Domain.pdb
+/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Billing/SmartMetering.Billing.Domain/obj/Debug/net10.0/ref/SmartMetering.Billing.Domain.dll

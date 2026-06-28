@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "SmartMetering.Metering.Application/1.0.0": {
+        "dependencies": {
+          "SmartMetering.Metering.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SmartMetering.Metering.Application.dll": {}
+        }
+      },
+      "SmartMetering.Metering.Domain/1.0.0": {
+        "runtime": {
+          "SmartMetering.Metering.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SmartMetering.Metering.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SmartMetering.Metering.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

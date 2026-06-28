@@ -1,8 +1,12 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
-
   <ItemGroup>
     <ProjectReference Include="..\SmartMetering.Ingestion.Application\SmartMetering.Ingestion.Application.csproj" />
     <ProjectReference Include="..\SmartMetering.Ingestion.Infrastructure\SmartMetering.Ingestion.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.9" />
+    <PackageReference Include="Scalar.AspNetCore" Version="2.16.5" />
   </ItemGroup>
 
   <PropertyGroup>
@@ -10,5 +14,4 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
-
 </Project>

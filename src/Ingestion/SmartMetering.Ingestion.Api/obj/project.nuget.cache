@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "OiTBgAcvXWc=",
+  "dgSpecHash": "g0f0c70VdAw=",
   "success": true,
   "projectFilePath": "/Users/mesto/Projects/learn_c_sharp/SmartMetering/src/Ingestion/SmartMetering.Ingestion.Api/SmartMetering.Ingestion.Api.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/mesto/.nuget/packages/microsoft.aspnetcore.openapi/10.0.9/microsoft.aspnetcore.openapi.10.0.9.nupkg.sha512",
+    "/Users/mesto/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512",
+    "/Users/mesto/.nuget/packages/rabbitmq.client/7.2.1/rabbitmq.client.7.2.1.nupkg.sha512",
+    "/Users/mesto/.nuget/packages/scalar.aspnetcore/2.16.5/scalar.aspnetcore.2.16.5.nupkg.sha512"
+  ],
   "logs": []
 }

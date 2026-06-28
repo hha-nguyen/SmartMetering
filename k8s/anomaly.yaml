@@ -1,0 +1,30 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: anomaly
+  labels:
+    app: anomaly
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: anomaly
+  template:
+    metadata:
+      labels:
+        app: anomaly
+    spec:
+      containers:
+        - name: anomaly
+          image: smartmetering-anomaly:dev
+          imagePullPolicy: IfNotPresent
+          env:
+            - name: RABBIT_HOST
+              value: "rabbitmq"
+          resources:
+            requests:
+              cpu: "50m"
+              memory: "64Mi"
+            limits:
+              cpu: "200m"
+              memory: "128Mi"
